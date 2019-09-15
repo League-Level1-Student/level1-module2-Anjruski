@@ -5,7 +5,26 @@ package _04_tea_maker;
  */
 
 public class TeaMaker {
-
+	public static void main(String[] args) {
+		TeaMaker TeaBag = new TeaMaker();
+		TeaMaker Kettle = new TeaMaker();
+		TeaMaker Water = new TeaMaker();
+		TeaMaker Cup = new TeaMaker();
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+	
 	/* Figure out how to make a cup of tea in this runner class, using the other classes below */
 
 }
